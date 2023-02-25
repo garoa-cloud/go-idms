@@ -1,0 +1,11 @@
+{
+  "name": "storage",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "nodemon --exec go test . --signal SIGTERM"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
